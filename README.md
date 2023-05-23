@@ -4,7 +4,7 @@ Python Starter Pack, Python diline yeni başlayanlar için basit ve anlaşılır
 
 ## Projeler
 
-Proje klasörleri içerisinde, her bir proje için ayrıntılı açıklamalar ve örnek kodlar bulunmaktadır. Projeler farklı konuları ve zorluk seviyelerini kapsayacak şekilde çeşitlendirilmiştir. Her projenin kendi README dosyası içerisinde projenin amacı, kullanım talimatları ve gereksinimler hakkında bilgi bulunmaktadır.
+[Projeler](Projeler) klasörü içerisinde, her bir proje için ayrıntılı açıklamalar ve örnek kodlar bulunmaktadır. Projeler farklı konuları ve zorluk seviyelerini kapsayacak şekilde çeşitlendirilmiştir. Her projenin kendi README dosyası içerisinde projenin amacı, kullanım talimatları ve gereksinimler hakkında bilgi bulunmaktadır.
 
 ## Nasıl Kullanılır
 
