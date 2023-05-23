@@ -14,7 +14,7 @@ Bu proje, Python programlama dili kullanarak basit bir hesap makinesi uygulamas�
 
 5. Hesaplama işlemlerini tamamladıktan sonra, programı kapatmak için "Çıkış" seçeneğini seçin.
 
-## Örnek Kullanım
+## Örnek Çıktı
 
 ```python
 1 - Toplama
